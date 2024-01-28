@@ -17,7 +17,7 @@
 # Visualizing Government Debt Excercise 2
 <iframe
 src="https://public.tableau.com/views/Book1_17063743796670/GovernmentDebttoGDP?:showVizHome=no&:embed=true"
- width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe> 
+ width="100%" height="500" seamless frameborder="0" scrolling="no"></iframe> 
 
 # Visualizations Explained
 The first visualization, government debt bar chart, is a very simple and straight forward design. It is interactive and in my opinion fairly easy to understand. I found that the data on the chart blends in with thee background and makes it a little challenging to read at times. I didn't find the labels to be overcrowding the chart and it is easy to find the country you are looking for. I think the addition of a title and a label along the y-axis would help aid the audience. The utilization of colors would also help describe what the value means. Generally, a higher debt-to-GDP value is considered dangerous for an economy. 
