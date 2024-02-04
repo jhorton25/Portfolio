@@ -31,7 +31,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 # Wireframe 2
 <iframe
-src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;Homework34_17067254216230&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'width="100%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;Homework34_17067254216230&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'width="80%" height="300" seamless frameborder="0" scrolling="no"></iframe>
 
 <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1707068621280');                    
@@ -44,7 +44,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 # Wireframe 3
 <iframe
-src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;Homework34_17067254216230&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'width="100%" height="500" seamless frameborder="0" scrolling="no"></iframe>             
+src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;Homework34_17067254216230&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'width="80%" height="300" seamless frameborder="0" scrolling="no"></iframe>             
 
 <script type='text/javascript'>
 var divElement = document.getElementById('viz1707068718212');                   
