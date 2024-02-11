@@ -22,7 +22,7 @@ Centers for Disease Control and Prevention[(CDC)](https://data.cdc.gov/Nutrition
 
 Behavioral Risk Factor Surveillance System[(BRFSS)](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=PA&islTopic=PA1&go=GO) 
 
-U.S. Department of Health and Human Services[(OASH)]([https://health.gov/healthypeople/objectives-and-data/browse-objectives/physical-activity/reduce-proportion-adults-who-do-no-physical-activity-their-free-time-pa-01/data?group=Age%20group%E2%80%A0%20%C2%A7&from=2020&to=2022&state=United%20States&populations=#edit-submit](https://health.gov/healthypeople/objectives-and-data/browse-objectives/physical-activity))_
+U.S. Department of Health and Human Services[(OASH)](https://health.gov/healthypeople/objectives-and-data/browse-objectives/physical-activity)
 
 
 This data will be used to show the gravity of the situation at hand. I want to take this data and show the problem but also provide a achievable solution for the audience. This data is straightfoward and comes from a very reliable source that also shares the same view that I have on the situation. I also hope the audience checks out these sources to further understand the situation. I want to give the audience the tools to make an informed decision about their help and pass this information on to anyone who will find it helpful. I also hope to show the initiatives the US government is trying to take to encourage healthier lifestyles.
