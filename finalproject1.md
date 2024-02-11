@@ -1,15 +1,16 @@
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+I've dedicated my final project to examining the pivotal role of exercise and proper nutrition in combatting obesity, heart disease, and diabetes. This subject resonates deeply with me because I am passionate about fostering longevity and well-being in all individuals. We find ourselves in a unique era where technological advancements have made our lives less physically demanding, contributing to a widespread lack of activity among a significant portion of the population. Additionally, the convience of fast food has fundamentally altered dietary habits in the United States, depriving many of essential nutrients and fostering unhealthy eating patterns.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Through this project, my aim is to emphasize the importance of these issues, arming people with knowledge to make informed decisions for happier, healthier lives. I intend not only to highlight the alarming statistics regarding the sedentary lifestyle prevalent in America but also showcase the percentage of individuals who have embraced health-conscious living. Rather than instilling fear, my goal is to educate and inspire. I want to demonstrate that adopting healthier habits is not an impossible challenge but a rewarding investment in long-term well-being.
 
-Text here...
+My call to action will offer a plethora of resources, empowering individuals to take control of their lifestyles with practical and free tools. I'll provide actionable insights into effective exercise regimens and offer guidance on nutritious diets and food choices that can easily be incorporated into daily routines. Most importantly, I want to emphasize that we are all human and prone to imperfection. My intention is not to induce guilt but to encourage self-reflection and inspire positive change.
 
-## Initial sketches
+# Project Structure
+> Setup: Lack of exercise and poor nutrition has led to the rise of obesity, heart disease, and diabetes. I want to show the audience the break down of these statistics by age group. The age group I want to focus on is 18-65+. This will consist of explanations that are in the topic. I will break down each part of it by showing what proper nutrition, exercise guidelines, obesity rates, heart disease rates, and diabetes rates from the data gathered by the CDC.
+> Conflict: The lifestyles that are generally common and the availability of food sources that are not nutritionally opitimal are major contributing factors to these issues. The currewnt careers and lifestyles choices that are more accessible are not exactly the best for you.
+> Resolution: The audience is going to be led to the fact that this decision comes from within oneself and that they have to have the discipline to pursue a healthy life. I will provide them with the basic tools to start that journey and hope to inspire them to achieve this. 
+
+# Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 Text here...
