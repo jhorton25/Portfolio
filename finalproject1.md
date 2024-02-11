@@ -1,3 +1,4 @@
+| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](finalproject1.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 # Outline
 I've dedicated my final project to examining the pivotal role of exercise and proper nutrition in combatting obesity, heart disease, and diabetes. This subject resonates deeply with me because I am passionate about fostering longevity and well-being in all individuals. We find ourselves in a unique era where technological advancements have made our lives less physically demanding, contributing to a widespread lack of activity among a significant portion of the population. Additionally, the convience of fast food has fundamentally altered dietary habits in the United States, depriving many of essential nutrients and fostering unhealthy eating patterns.
 
@@ -15,19 +16,15 @@ For my initial sketch I wanted to design a framework and how I'm going to tell t
 (![initial sketch](https://github.com/jhorton25/Portfolio/assets/157176259/2c39bbfb-0d70-4a2d-938c-909ce12d876a)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+Centers for Disease Control and Prevention[(CDC)](https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7/about_data)
+Behavioral Risk Factor Surveillance System[(BRFSS)](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=PA&islTopic=PA1&go=GO). 
+U.S. Department of Health and Human Services[(OASH)]([https://health.gov/healthypeople/objectives-and-data/browse-objectives/physical-activity/reduce-proportion-adults-who-do-no-physical-activity-their-free-time-pa-01/data?group=Age%20group%E2%80%A0%20%C2%A7&from=2020&to=2022&state=United%20States&populations=#edit-submit](https://health.gov/healthypeople/objectives-and-data/browse-objectives/physical-activity))_
 
-I willbe using data from the Centers for Disease Control and Prevention(CDC) and the Behavioral Risk Factor Surveillance System(BRFSS). 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+This data will be used to show the gravity of the situation at hand. I want to take this data and show the problem but also provide a achievable solution for the audience. This data is straightfoward and comes from a very reliable source that also shares the same view that I have on the situation. I also hope the audience checks out these sources to further understand the situation. I want to give the audience the tools to make an informed decision about their help and pass this information on to anyone who will find it helpful. I also hope to show the initiatives the US government is trying to take to encourage healthier lifestyles.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+I believe the audience will greatly benefit seeing the data from these sources. I plan to add more if I come across anything I find beneficial and reliable. I want the audience to be able to put this into perspective on how this isn't just a small problem. This is huge and it is changing the way our world is. Inspiring the audience to take this data and make it meaningful in their lives. 
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan on completing my final project using Tableau and Canva. I want to create data visualizations using Tableau and utilize Canva to put it all together in a very smooth webpage. I want the audience to have a very nice experience that will leave a very positive impression on them. 
