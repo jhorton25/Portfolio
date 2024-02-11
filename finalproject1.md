@@ -1,4 +1,6 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](finalproject1.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+
 # Outline
 I've dedicated my final project to examining the pivotal role of exercise and proper nutrition in combatting obesity, heart disease, and diabetes. This subject resonates deeply with me because I am passionate about fostering longevity and well-being in all individuals. We find ourselves in a unique era where technological advancements have made our lives less physically demanding, contributing to a widespread lack of activity among a significant portion of the population. Additionally, the convience of fast food has fundamentally altered dietary habits in the United States, depriving many of essential nutrients and fostering unhealthy eating patterns.
 
