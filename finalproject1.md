@@ -13,6 +13,8 @@ Resolution: The audience is going to be led to the fact that this decision comes
 
 # Initial sketches
 For my initial sketch I wanted to design a framework and how I'm going to tell this story. I want to present the audience with text information to prevent a misunderstanding and to also support the visualizations that I'm presenting them. This will be used to create a solid foundation, to build tension, and finally show them a solution. My goal is to let the visualizations speak for themselves and the audience to understand how this relates to them or someone they care about. I don't want to overwhelm the audience and I want to create a series of visualizations that build off one another. 
+
+
 (![initial sketch](https://github.com/jhorton25/Portfolio/assets/157176259/2c39bbfb-0d70-4a2d-938c-909ce12d876a)
 
 # The data
