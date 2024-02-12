@@ -33,4 +33,4 @@ I believe the audience will greatly benefit seeing the data from these sources. 
 
 
 # Method and medium
-I plan on completing my final project using Tableau and Canva. I want to create data visualizations using Tableau and utilize Canva to put it all together in a very smooth webpage. I want the audience to have a very nice experience that will leave a very positive impression on them. 
+I plan on completing my final project using Tableau and Shorthand. I want to create data visualizations using Tableau and utilize Canva to put it all together in a very smooth webpage. I want the audience to have a very nice experience that will leave a very positive impression on them. 
