@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 I did my wireframes and storyboard directly on shorthand. I found shorthand awesome becausew it helped me generate the flow of how I wanted my story to flow. I definitely had to step back and recalibrate how I was going to do this based on the feedback from part one of final project. I really enjoyed talking with everyone and also coming to the terms that I took on a very broad topic and needed to be more specific. I decided to change my direction of my project and focus on why adults should encorporate exercise into their lives. I don't want to scare people into this journey, but rather be a beacon of hope. I want to share my story and how physical fitness changed my life. 
-Here is the link for my shorthand page. https://preview.shorthand.com/2mLMgLoyeHflZMzt
+Here is the link for my shorthand [page](https://preview.shorthand.com/2mLMgLoyeHflZMzt). 
 
 # User research 
 
