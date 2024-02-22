@@ -14,8 +14,8 @@ My target audience is quite broad, but I honestly want it that way. I wanted to 
 | Goal           | Questions to Ask                            |
 |----------------|---------------------------------------------|
 | Impact         | What is the story?                          |
-| fluidity       | What did you like?                          |
-|                | What didn't you like?                       |
+| Fluidity       | What did you like?                          |
+| Honesty        | What didn't you like?                       |
 | Applicability  | Does this apply to you or anyone you know?  |
 | Quality        | Do you have recommendations for improvement?|
 
