@@ -1,4 +1,4 @@
-| [home page]() | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](finalproject1.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
 I did my wireframes and storyboard directly on shorthand. I found shorthand awesome becausew it helped me generate the flow of how I wanted my story to flow. I definitely had to step back and recalibrate how I was going to do this based on the feedback from part one of final project. I really enjoyed talking with everyone and also coming to the terms that I took on a very broad topic and needed to be more specific. I decided to change my direction of my project and focus on why adults should encorporate exercise into their lives. I don't want to scare people into this journey, but rather be a beacon of hope. I want to share my story and how physical fitness changed my life. 
@@ -7,8 +7,6 @@ Here is the link for my shorthand page. https://preview.shorthand.com/2mLMgLoyeH
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
 My target audience is quite broad, but I honestly want it that way. I wanted to focus on adults and emphasize that it is never too late to implement a healthier lifestyle. The people I shared this with for the interview range in age from their mid 20s to low 50s. I hope to reach people who are looking for some extra courage or inspiration to start exercising. I hope they can also spread the word and help others that need to hear this message. I want to be inclusive and show that anyone is capable of pursuing a healthier life. 
 
 ## Interview script
