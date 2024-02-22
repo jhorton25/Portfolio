@@ -1,4 +1,4 @@
-| [home page](ReadME.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](finalProject1.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](ReadME.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](finalproject1.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
