@@ -11,13 +11,13 @@ My target audience is quite broad, but I honestly want it that way. I wanted to 
 
 ## Interview Script
 
-| Goal          | Questions to Ask                            |
-|---------------|---------------------------------------------|
-| Impact        | What is the story?                          |
-| Is it fluid?  | What did you like?                          |
-|               | What didn't you like?                       |
-| Applicability | Does this apply to you or anyone you know?  |
-| Quality       | Do you have recommendations for improvement?|
+| Goal           | Questions to Ask                            |
+|----------------|---------------------------------------------|
+| Impact         | What is the story?                          |
+| fluidity       | What did you like?                          |
+|                | What didn't you like?                       |
+| Applicability  | Does this apply to you or anyone you know?  |
+| Quality        | Do you have recommendations for improvement?|
 
 I kept the questions simple. My story isn't a complex one, but one that gets to the point. I wanted the audience to put into what they got out of it. I know everyone perceives and digest information in different ways which was something I definitely needed to consider when choosing these questions. In my opinion the more simple it is, the better. I know that may turn people away, but my goal has always been to be clear, concise, and easy to understand when presenting information to an audience.  
 
