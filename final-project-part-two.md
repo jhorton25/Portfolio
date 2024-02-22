@@ -10,7 +10,6 @@ Here is the link for my shorthand [page](https://preview.shorthand.com/2mLMgLoye
 My target audience is quite broad, but I honestly want it that way. I wanted to focus on adults and emphasize that it is never too late to implement a healthier lifestyle. The people I shared this with for the interview range in age from their mid 20s to low 50s. I hope to reach people who are looking for some extra courage or inspiration to start exercising. I hope they can also spread the word and help others that need to hear this message. I want to be inclusive and show that anyone is capable of pursuing a healthier life. 
 
 ## Interview script
-
 | Goal                | Questions to Ask                            |
 |---------------------|---------------------------------------------|
 | Impact              | What is the story?                          |
@@ -27,7 +26,7 @@ I kept the questions simple. My story isn't a complex one, but one that gets to 
 | 2      | Does this apply to you or anyone you know?  |
 | 3      | What did you like?                          |
 | 4      | What didn't you like?                       |
-|5       | Do you have recommendations for improvement?| 
+| 5      | Do you have recommendations for improvement?| 
 
 Interview 1: Mid 20s, Male
 1) Fitness and its importance
