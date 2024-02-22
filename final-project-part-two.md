@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page]() | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 I did my wireframes and storyboard directly on shorthand. I found shorthand awesome becausew it helped me generate the flow of how I wanted my story to flow. I definitely had to step back and recalibrate how I was going to do this based on the feedback from part one of final project. I really enjoyed talking with everyone and also coming to the terms that I took on a very broad topic and needed to be more specific. I decided to change my direction of my project and focus on why adults should encorporate exercise into their lives. I don't want to scare people into this journey, but rather be a beacon of hope. I want to share my story and how physical fitness changed my life. 
@@ -23,35 +23,46 @@ My target audience is quite broad, but I honestly want it that way. I wanted to 
 I kept the questions simple. My story isn't a complex one, but one that gets to the point. I wanted the audience to put into what they got out of it. I know everyone perceives and digest information in different ways which was something I definitely needed to consider when choosing these questions. In my opinion the more simple it is, the better. I know that may turn people away, but my goal has always been to be clear, concise, and easy to understand when presenting information to an audience. 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+| Number | Questions to Ask                            |
+|--------|---------------------------------------------|
+| 1      | What is the story?                          |
+| 2      | Does this apply to you or anyone you know?  |
+| 3      | What did you like?                          |
+| 4      | What didn't you like?                       |
+|5       | Do you have recommendations for improvement?| 
 
-Text here!
+Interview 1: Mid 20s, Male
+1) Fitness and its importance
+2) Yes
+3) Layout was cool
+4) Lots of words
+5) Less words, maybe a video, and more pictures of Jake doing pullups
 
-| Questions                                       | Interview 1 (Male, 20s)      | Interview 2 (Male, 20s)                                               | Interview 3 (Male, 50s) |
-|-------------------------------------------------|------------------------------|-----------------------------------------------------------------------|-------------------------|
-| What is the story?                              | fitness and its importance   | The story in my opinion is promoting the positive effects that being  |                         | 
-|                                                 |                              | active has on one's life. First it is told through a personal anecdote|                         |
-|                                                 |                              | then backed up through cited evidence. Following this it lists several|                         |
-|                                                 |                              | avenues of pursuing a healthier more active lifestyle.                |                         |
-| Does this apply to you or anyone you know?      | Yes                          |                                                                       |                         |
-| What did you like?                              | Layout was cool              |                                                                       |                         |
-| What didn't you like?                           | Lots of words                |                                                                       |                         |
-| Do you have any recommendations for improvement?| Less words, maybe a video    |                                                                       |                         |
+Interview 2: Mid 20s, Male 
+1. The story in my opinion is promoting the positive effects that being active has on one's life. First it is told through a personal anecdote then backed up through cited evidence. Following this it lists several avenues of pursuing a healthier more active lifestyle.
+2. This applies to myself, but I think a better example would be my dad who had a heart attack several years ago and the doctor said he would not be alive if it wasn't for his lifestyle of hard labor jobs throughout his entire life that significantly contributed to his survival chances.
+3. I liked the connection built through the personal story and then related to quantitative research of the benefits of working out. 
+4. The links hyperlinks aren't very explicit, I missed the quiz completely my first go through. 
+5. Potentially rework the layout to emphasize the hyperlinks more or expand on the journey section.
+
+Interview 3: Low 50s, Male
+1. The story to me an educational tutorial on how to get active and to not be afraid to start something new. 
+2. As you know this applies to me in a very specific way after retirement from the Army I let myself go for almost 9 years now I’m back at it and I love strength training. 
+3. Very informative and not just pushing one thing.  Gave websites and places to look up information 
+4. I like it all very well put together. 
+5. The only improvement I think is this needs to be out there for people to see just like it is with all the add bullshit that you have to go through just to find good information.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+I'm also including feedback from my peers from an in class exercise that we did in class. 
 
-Text here!
+| Research synthesis                       | Anticipated changes for Part III                                                                                     |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Design on shorthand                      | I need to adjust my presenation of information to create a nice flow for my audience                                 |
+| Utilizing space properly                 | My orignal design before corrections was very crowded. I intend to utilize spacing so the audience isn't overwhelmed.|
+| Word count                               | Some of my passages have a lot of text. I need to be more concise in my language.                                    |
+| Use of Color                             | My original colors were all over the place, but I need to lock in a theme and stick to it.                           |
+| Improving font size                      | I need to utilize different font sizes so the audience can identify the topics more easily.                          |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+# Final Thoughts 
+One thing I identified is that I should have included more interviews. I should have included females to see their perspective on this topic and if I could have improved anything to be more inclusive. Overall I learned so much on design and telling a story. To be honest I was quite overwhelmed with the amount of work it takes to get all the details right. I'm definitely going onto part 3 of this final project with a new view on story telling. This project has been very demanding and I have developed a new appreciation for everything we have done in here. This is not a subject to be taken lightly and everything we do can have a true impact on people. 
 
