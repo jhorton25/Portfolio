@@ -27,16 +27,16 @@ I kept the questions simple. My story isn't a complex one, but one that gets to 
 
 Text here!
 
-| Questions                                       | Interview 1 (Male, 20s)        | Interview 2 (Male, 20s)                                               | Interview 3 (Male, 50s) |
-|-------------------------------------------------|--------------------------------|-----------------------------------------------------------------------|-------------------------|
-| What is the story?                              | fitness and its importantance  | The story in my opinion is promoting the positive effects that being  |                         | 
-                                                                                     active has on one's life. First it is told through a personal anecdote|                         |
-                                                                                     then backed up through citedevidence. Following this it lists several |                         |
-                                                                                     avenues of pursuing a  healthier more active lifestyle.               |                         |
-| Does this apply to you or anyone you know?      | Yes                            |                                                                       |                         |
-| What did you like?                              | Layout was cool                |                                                                       |                         |
-| What didn't you like?                           | Lots of words                  |                                                                       |                         |
-| Do you have any recommendations for improvement?| Less words, maybe a video      |                                                                       |                         |
+| Questions                                       | Interview 1 (Male, 20s)      | Interview 2 (Male, 20s)                                               | Interview 3 (Male, 50s) |
+|-------------------------------------------------|------------------------------|-----------------------------------------------------------------------|-------------------------|
+| What is the story?                              | fitness and its importance   | The story in my opinion is promoting the positive effects that being  |                         | 
+|                                                 |                              | active has on one's life. First it is told through a personal anecdote|                         |
+|                                                 |                              | then backed up through cited evidence. Following this it lists several|                         |
+|                                                 |                              | avenues of pursuing a healthier more active lifestyle.                |                         |
+| Does this apply to you or anyone you know?      | Yes                          |                                                                       |                         |
+| What did you like?                              | Layout was cool              |                                                                       |                         |
+| What didn't you like?                           | Lots of words                |                                                                       |                         |
+| Do you have any recommendations for improvement?| Less words, maybe a video    |                                                                       |                         |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
