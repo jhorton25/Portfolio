@@ -1,4 +1,4 @@
-| [home page](ReadME.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](finalproject1.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](finalproject1.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
 [Here is my final story!](https://preview.shorthand.com/2mLMgLoyeHflZMzt)
